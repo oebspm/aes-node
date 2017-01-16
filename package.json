@@ -1,0 +1,24 @@
+{
+  "name": "encrypt",
+  "version": "1.0.0",
+  "description": "Encrypt or decrypt using aes-256",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oebspm/aes-node.git"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt",
+    "aes"
+  ],
+  "author": "Alexey Ivasyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oebspm/aes-node/issues"
+  },
+  "homepage": "https://github.com/oebspm/aes-node#readme"
+}
